@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KimcheDevChallenge/static/css/main.8c8b4e8a.chunk.css",
+    "main.js": "/KimcheDevChallenge/static/js/main.13830b07.chunk.js",
+    "main.js.map": "/KimcheDevChallenge/static/js/main.13830b07.chunk.js.map",
+    "runtime-main.js": "/KimcheDevChallenge/static/js/runtime-main.c65bf391.js",
+    "runtime-main.js.map": "/KimcheDevChallenge/static/js/runtime-main.c65bf391.js.map",
+    "static/js/2.5cda998d.chunk.js": "/KimcheDevChallenge/static/js/2.5cda998d.chunk.js",
+    "static/js/2.5cda998d.chunk.js.map": "/KimcheDevChallenge/static/js/2.5cda998d.chunk.js.map",
+    "index.html": "/KimcheDevChallenge/index.html",
+    "precache-manifest.186ba467c2484d68ca67500162d51b06.js": "/KimcheDevChallenge/precache-manifest.186ba467c2484d68ca67500162d51b06.js",
+    "service-worker.js": "/KimcheDevChallenge/service-worker.js",
+    "static/css/main.8c8b4e8a.chunk.css.map": "/KimcheDevChallenge/static/css/main.8c8b4e8a.chunk.css.map",
+    "static/js/2.5cda998d.chunk.js.LICENSE.txt": "/KimcheDevChallenge/static/js/2.5cda998d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c65bf391.js",
+    "static/js/2.5cda998d.chunk.js",
+    "static/css/main.8c8b4e8a.chunk.css",
+    "static/js/main.13830b07.chunk.js"
+  ]
+}
